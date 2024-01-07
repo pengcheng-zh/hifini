@@ -1,0 +1,32 @@
+.main {
+    display: flex;
+    height: calc(93vh - 60px);
+    background-color: #f6f6f6;
+    flex-direction: column;
+    justify-content: flex-start;
+    background: #E7EBF0 url(../../../../public/bg-1.jpg);
+  }
+  
+  .main > section {
+    padding: 32px;
+  }
+
+  .dataloading {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+  }
+
+  .appheader {
+    background-color: #343a40;
+    color: #fff;
+    padding: 0.2rem 1rem;
+  }
+
+  .body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }

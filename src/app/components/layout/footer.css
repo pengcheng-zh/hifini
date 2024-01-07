@@ -1,0 +1,13 @@
+.app-footer .tab-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 68px;
+}
+
+.app-footer .tab-bar .tab {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

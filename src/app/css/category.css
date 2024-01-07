@@ -1,0 +1,63 @@
+.portal-category-sec {
+    margin: 6px 10px 0px 10px;
+    background-color: #fff;
+    border-radius: 3px;
+    .adm-tabs-tab {
+        font-size: 13px;
+    }
+}
+
+.post-title{
+    font-size: 13px;
+    color: #1f4977;
+    word-break: break-all;
+    word-wrap: break-word;
+}
+
+.post-description {
+    margin-top: 0.25rem !important;
+    font-size: 80%;
+    font-weight: 400;
+    color: #748594;
+    letter-spacing: .2px;
+}
+
+.post-description .board-bg {
+    border-radius: 2px;
+    width: 0.64rem;
+    height: 0.64rem;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.post-description .red {
+    background-color: #F21120;
+}
+
+.post-description .red {
+    background-color: #F21120;
+}
+
+.post-description .green {
+    background-color: #0e9955;
+}
+
+.post-description .username, .create-time {
+    margin-left: 0.5rem;
+}
+
+.post-list .author-name {
+    flex:1;
+}
+
+.explore-body .adm-swiper-track-inner {
+    height: calc(90vh - 90px) !important;
+}
+
+.explore-body .adm-list {
+    height: calc(90vh - 140px) !important;
+    overflow: scroll;
+}
+.explore-pagination {
+    height: 50px;
+}

@@ -1,0 +1,32 @@
+.sign-in {
+    margin-top: 8px;
+    padding: 4px 3px 3px 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    border: 1px solid #0a71811c;
+    border-radius: 4px;
+}
+
+.sign-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 12px;
+}
+
+.sign-in-action {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 12px;
+}
+
+.sign-in-real {
+    font-size: 24px;
+    color: #fff;
+    padding: 6px;
+    background-color: goldenrod;
+    border-radius: 4px;
+}

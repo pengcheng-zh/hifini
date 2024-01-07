@@ -1,0 +1,126 @@
+.content {
+    height: 120px;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    user-select: none;
+}
+
+.top-banner {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.portal-content {
+    overflow-y: scroll;
+}
+
+.banner-user {
+    margin-top: 12px;
+    padding: 10px;
+    border-radius: 4px;
+    border: solid 1px var(--adm-color-border);
+    background-color: #ffffff;
+}
+
+.banner-avatar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-avatar-avatar {
+    border-radius: 10px;
+}
+
+.banner-avatar-avatar .adm-image-img {
+    border-radius: 30px;
+}
+
+
+.banner-right {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: center;
+}
+.banner-info {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 10px;
+}
+
+.banner-info .welcome {
+    font-size: 26px;
+}
+.banner-info .member-level {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    align-items: center;
+}
+.banner-vip {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.banner-coupon {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 10px;
+}
+.banner-coupon .coupon {
+    font-size: 16px;
+    font-weight: 600px;
+}
+.banner-coupon .coupon-count {
+    font-size: 12px;
+    padding-top: 8px;
+}
+.banner-code {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.app-footer {
+    flex: 0;
+  border-top: solid 1px var(--adm-color-border);
+}
+
+.tab-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.tab-header .tab-title, .tab-author, .tab-view, .tab-reply  {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    flex: 1;
+
+    padding: 6px 0 6px 0;
+}
+
+/* .explore-body {
+    overflow-y: scroll;
+} */
+
+
+
+.adm-image {
+    border-radius: 4px;
+}

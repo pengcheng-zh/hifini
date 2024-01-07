@@ -1,0 +1,170 @@
+.me-section {
+    margin: 10px 12px 10px 12px;
+    border-color: transparent;
+    color: #fff;
+}
+.me-section .adm-tabs {
+    background-color: rgba(0, 0, 0, 0.32);
+}
+.adm-tabs-tab {
+    font-size: 13px;
+}
+.adm-tabs-tab-active {
+    color: #0c0d0d;
+    border-color: #666e76;
+}
+.adm-tabs-tab-wrapper-stretch {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.me-section-base {
+    margin-top: 20px;
+    color: #454d55;
+}
+
+.bg-white {
+    background: #fff !important;
+}
+
+.me-section-base .me-base-body .adm-tabs{
+    background: #fff !important;
+}
+
+.me-base-item .basic-item {
+    margin: 16px 0px;
+}
+
+.reset-username {
+    margin-top: 20px;
+}
+
+.reset-username .adm-button {
+    background-color: #5f8ece;
+    color: #fff;
+    font-size: 14px;
+}
+
+.me-base-avatar-btn {
+    margin-top: 20px;
+}
+.me-base-avatar .adm-button {
+    background-color: #5f8ece;
+    color: #fff;
+    font-size: 14px;
+}
+
+.me-base-avatar .adm-space-horizontal > .adm-space-item {
+    margin-right: 0px !important;
+}
+
+.recharge-section {
+    padding: 30px;
+}
+
+.recharge-section .current-amount p {
+    padding: 12px;
+    color: #00b050;
+}
+
+.recharge-amount {
+    margin-top: 20px;
+}
+
+.recharge-amount .adm-button {
+    color: #1f4977;
+    border-color: #1f4977;
+    font-size: 13px;
+}
+
+.recharge-amount .adm-button {
+    color: #1f4977;
+    border-color: #1f4977;
+    font-size: 13px;
+}
+.recharge-amount .adm-button.active {
+    color: #fff;
+    background-color: #1f4977;
+}
+
+.recharge-method {
+    margin-top: 20px;
+}
+
+.recharge-method .icon {
+    width: 20px;
+    height: 20px;
+}
+.recharge-method .name {
+    margin-left: 8px;
+}
+.recharge-balance .balance .icon{
+    background: url('../../../public/balance.svg') no-repeat;
+    background-size: 20px 20px;
+}
+.recharge-alipay .alipy .icon{
+    background: url('../../../public/alipay.svg') no-repeat;
+    background-size: 20px 20px;
+}
+.recharge-wechat .wechat .icon{
+    background: url('../../../public/wechat.svg') no-repeat;
+    background-size: 20px 20px;
+}
+.amount-enum{
+    padding: 12px;
+    line-height: 20px;
+}
+.coin-bronze {
+    margin-left: 6px;
+    width: 16px;
+    height: 16px;
+    background: url('../../../public/tongbi.svg') no-repeat;
+    background-size: 16px 16px;
+}
+.coin-silver {
+    margin-left: 6px;
+    width: 16px;
+    height: 16px;
+    background: url('../../../public/yinbi.svg') no-repeat;
+    background-size: 16px 16px;
+}
+
+.coin-gold {
+    margin-left: 6px;
+    width: 16px;
+    height: 16px;
+    background: url('../../../public/jinbi.svg') no-repeat;
+    background-size: 16px 16px;
+}
+.member-section .item {
+    padding: 12px;
+    color: #00b050;
+}
+
+.member-section .value {
+    justify-content: space-around;
+    flex: 1;
+}
+
+.me-page-post .adm-swiper-track-inner {
+    height: calc(90vh - 170px) !important;
+}
+
+.me-page-post .adm-list {
+    height: calc(90vh - 220px) !important;
+    overflow: scroll;
+}
+
+.me-page-post .portal-category-sec {
+    margin: 0px;
+}
+.explore-pagination {
+    height: 50px;
+}
+
+.ant-pagination .ant-pagination {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}

@@ -1,0 +1,146 @@
+.post-detail{
+    margin: 10px 12px auto 12px;
+    overflow-y: scroll;
+}
+
+.post-main {
+    background-color: #fff;
+    border-radius: 4px;
+}
+
+.post-head {
+    background-image: url(../../../public/bg_banner.png);
+    background-repeat: no-repeat;
+    padding: 1.2rem 1.2rem 1rem 1.2rem;
+    border-radius: 0.25rem 0.25rem 0 0;
+}
+
+.post-content {
+    margin-left: 8px;
+}
+
+.post-head .post-title {
+    font-size: 1rem;
+    word-break: break-all;
+    word-wrap: break-word;
+
+    margin-bottom: 0.5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+.post-head .post-description {
+    font-size: 85%;
+    font-weight: 400;
+    color: #748594 ;
+}
+.post-head .post-description span:nth-child(n+2) {
+    margin-left: 0.5rem;
+}
+
+.post-comment {
+    margin-top: 6px;
+    background-color: #fff;
+    padding: 4px;
+}
+.post-body {
+    padding: 0.75rem 1.25rem;
+}
+.post-body .free p{
+    margin: 0.2rem 0;
+    line-height: 1.7;
+}
+
+.post-body .charge h5 {
+    font-size: 1rem;
+    border-left: 4px solid #6293d4;
+    text-indent: 16px;
+    font-weight: bold;
+    padding: 2px 0px;
+    margin: 8px 0px;
+}
+
+.post-body .charge .alert-warning {
+    border: 1px #f1c84c dashed;
+    position: relative;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 1rem;
+    border-radius: 0.25rem;
+    color: #7d6828;
+    background-color: #fcf4db;
+}
+
+.post-body .charge .post-buy {
+    color: #1f4977;
+    background-color: transparent;
+}
+
+.post-store-section {
+    margin-top: 30px;
+}
+ .adm-button{
+    color: #868e96;
+}
+.post-comment-section {
+    margin-top: 4px;
+    background-color: #fff;
+}
+
+.post-comment-section .comment-head {
+    padding: 10px;
+}
+
+.post-comment-section  .comment-body {
+    margin: 0.75rem 1.25rem;
+}
+
+.comment-list-item {
+    padding: 10px 0px 12px 0px;
+    border-bottom: 1px solid #e9ecef;
+}
+.comment-item-content-top {
+    color: #748594;
+    font-size: 85%;
+    font-weight: 400;
+}
+.comment-item-content-main {
+    margin-left: 12px;
+}
+.comment-item-content-bottom{
+    margin-top: 6px;
+}
+.comment-item-content-reply {
+    flex:1;
+}
+
+.comment-list-item.active{
+    background-color: #e9ecef;
+    animation: quote_animation 1s;
+    -moz-animation: quote_animation 1s;
+    -webkit-animation: quote_animation 1s;
+    -o-animation: quote_animation 1s;
+    background-image: url(../../../public/quote.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    border-radius: 3px;
+}
+
+.comment-item-content-top .create-time {
+    margin-left: 12px;
+}
+
+.reply-area {
+    border-bottom: 1px solid #e9ecef;
+    padding: 2px 8px 2px 8px;
+}
+.replay-action {
+    padding: 10px;
+    align-items: center;
+}
+.reply-highlight {
+    flex: 1;
+}
+.reply-highlight .adm-checkbox-content {
+    font-size: 13px;
+}

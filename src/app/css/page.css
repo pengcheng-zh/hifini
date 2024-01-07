@@ -1,0 +1,9 @@
+.page-number {
+    border: 1px solid #ffffff98;
+    padding: 8px;
+    font-size: 14px;
+}
+
+.page-number:hover {
+    background-color: #ffffff98;
+}

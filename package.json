@@ -1,0 +1,31 @@
+{
+  "name": "ishanghai",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "antd": "^5.12.5",
+    "antd-mobile": "^5.33.0",
+    "base-64": "^1.0.0",
+    "cookies-next": "^4.1.0",
+    "jwt-decode": "^4.0.0",
+    "moment": "^2.29.4",
+    "next": "14.0.3",
+    "next-auth": "^4.24.5",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-simple-verify": "^1.0.11"
+  },
+  "devDependencies": {
+    "@types/base-64": "^1.0.2",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  }
+}

@@ -1,0 +1,59 @@
+.login-section {
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    background: #E7EBF0 url(../../../public/bg-1.jpg);
+}
+
+.login-content {
+    padding: 12px;
+}
+.login-form {
+    margin: 60px 3px;
+    border-radius: 8px;
+    padding: 8px;
+    background-color: #fff;
+}
+.regist-section {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+.user-forget {
+    margin-left: 16px;
+}
+
+.login-form .adm-button {
+    color: #fff;
+}
+.send-code {
+    color: #5f8ece;
+}
+
+.login-item {
+    border: 1px solid #abb8c3;
+    border-radius: 4px;
+    margin-top: 16px;
+}
+.login-item:hover {
+    border: 1px solid #1f4977;
+}
+.item-icon, .item-input {
+    padding: 12px;
+}
+
+.item-input {
+    flex:1
+}
+
+.item-extra {
+    margin-right: 12px;
+}
+
+.login-btn {
+    margin-top: 30px;
+    background-color: #1f4977;
+}
+
+.regist-section {
+    color: #1f4977;
+}
