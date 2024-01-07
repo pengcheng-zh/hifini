@@ -36,5 +36,12 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Screenshot
-![Uploading image.png…]()
+![Weixin Screenshot_20240107132113](https://github.com/pengcheng-zh/hifini/assets/4609762/41cece69-1590-4dc4-9bc4-7776e51bb206)
+![Weixin Screenshot_20240107132132](https://github.com/pengcheng-zh/hifini/assets/4609762/14746f69-75a7-4ee7-8925-aebdc4a16806)
+![Weixin Screenshot_20240107132143](https://github.com/pengcheng-zh/hifini/assets/4609762/b5959844-4a80-4a97-8275-e819f8cdee07)
+![Weixin Screenshot_20240107132156](https://github.com/pengcheng-zh/hifini/assets/4609762/34df0e11-6665-4fdf-afb2-9bddb0d2adc6)
+![Weixin Screenshot_20240107132207](https://github.com/pengcheng-zh/hifini/assets/4609762/78ba5560-8676-4d2b-b47b-0dc36e53e1c5)
+![Weixin Screenshot_20240107132218](https://github.com/pengcheng-zh/hifini/assets/4609762/c3486fe8-468c-4706-8ad4-36739c78ab06)
+![Weixin Screenshot_20240107132241](https://github.com/pengcheng-zh/hifini/assets/4609762/eeafd81a-0563-48a5-9dd7-a268ab6250b4)
+
 
